@@ -1,5 +1,6 @@
 ---
-title: "recipes"
+title: "Recipes"
+author: "Maria"
 format: html
 editor: visual
 ---
