@@ -10,7 +10,7 @@ editor: visual
 
 I want to share my recipes for all my favorite comfort foods with you!
 
-`Here's a classic recipe for a delicious cheesecake:`
+Here's a classic recipe for a delicious cheesecake:
 
 *Classic Cheesecake Recipe*
 
