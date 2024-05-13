@@ -7,3 +7,57 @@ editor: visual
 Welcome to Maria's FoodBlog!
 
 I want to share my recipes for all my favorite comfort foods with you!
+
+`Here's a classic recipe for a delicious cheesecake:`
+
+### Classic Cheesecake Recipe
+
+#### Ingredients:
+
+-   2 cups graham cracker crumbs
+
+-   1/2 cup unsalted butter, melted
+
+-   1/4 cup granulated sugar
+
+-   4 packages (8 ounces each) cream cheese, softened
+
+-   1 1/4 cups granulated sugar
+
+-   1 teaspoon vanilla extract
+
+-   4 large eggs
+
+-   2/3 cup sour cream
+
+-   2/3 cup heavy cream
+
+#### For the Topping (optional):
+
+-   Fresh berries (strawberries, raspberries, blueberries)
+
+-   Fruit preserves or glaze
+
+-   Whipped cream
+
+#### Instructions:
+
+1.  **Preheat Oven**: Preheat your oven to 325°F (160°C). Grease a 9-inch springform pan.
+
+2.  **Prepare Crust**: In a mixing bowl, combine graham cracker crumbs, melted butter, and 1/4 cup sugar. Press the mixture onto the bottom of the prepared springform pan.
+
+3.  **Bake Crust**: Bake the crust in the preheated oven for about 10 minutes. Remove from oven and let it cool while preparing the filling.
+
+4.  **Prepare Filling**: In a large mixing bowl, beat the cream cheese until smooth. Add 1 1/4 cups sugar and vanilla extract, and beat until well combined. Add eggs, one at a time, beating well after each addition. Finally, mix in sour cream and heavy cream until smooth and creamy.
+
+5.  **Pour Filling**: Pour the cream cheese mixture over the cooled crust.
+
+6.  **Bake Cheesecake**: Place the cheesecake in the preheated oven and bake for 55-60 minutes, or until the edges are set and the center is slightly jiggly.
+
+7.  **Cool and Chill**: Remove the cheesecake from the oven and let it cool completely at room temperature. Once cooled, refrigerate the cheesecake for at least 4 hours, preferably overnight, to set completely.
+
+8.  **Decorate (optional)**: Before serving, you can decorate the cheesecake with fresh berries, fruit preserves or glaze, and whipped cream.
+
+9.  **Serve**: Slice the cheesecake and serve chilled. Enjoy your delicious classic cheesecake!
+
+This recipe makes a rich and creamy cheesecake that's sure to impress your friends and family. Feel free to get creative with the toppings or add a twist with flavors like chocolate or caramel.
