@@ -6,7 +6,7 @@ editor: visual
 
 ---
 
-#**Welcome to Maria's FoodBlog!**
+# **Welcome to Maria's FoodBlog!**
 
 I want to share my recipes for all my favorite comfort foods with you!
 
